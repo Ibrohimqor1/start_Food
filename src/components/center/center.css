@@ -1,0 +1,20 @@
+.parent{
+ display: grid;
+
+ grid-template-columns: repeat(4,1fr);
+}
+.img{
+    width: 200px;
+}
+
+.h1{
+    font-size:18px ;
+}
+.card{
+    width:200px ;
+    height:350px ;
+}
+.img_container{
+    height: 200px;
+    overflow: hidden;
+}
