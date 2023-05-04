@@ -6,6 +6,8 @@ const Board = () => {
   return (
     <div>
 
+
+
       
       <div className="row">
         <div className="col-1">
