@@ -9,6 +9,9 @@ const Board = () => {
             <div className="col-1">
 <One/>
 
+
+
+
             </div>
             <div className="col-8">
 <Center/>
