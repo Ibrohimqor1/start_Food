@@ -1,0 +1,52 @@
+.parent {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.img {
+    width: 200px;
+}
+
+.h1 {
+    font-size: 18px;
+}
+
+.card {
+    width: 200px;
+    margin: 8px;
+    height: 300px;
+}
+.card{
+    width: 220px !important;
+    border-radius: 25px !important;
+    text-align: center;
+    align-items: center;
+}
+.btn3{
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 5px;
+  
+}
+.btn2{
+    width: 150px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 5px; 
+}
+.btn3:hover{
+    background-color: rgb(146, 18, 20);
+    color: white;
+}
+
+.card img{
+    width: 220px;
+    border-radius: 25px;
+}
+
+.img_container {
+    height: 250px;
+    overflow: hidden;
+}

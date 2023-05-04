@@ -1,0 +1,65 @@
+.iiii {
+    display: flex;
+    justify-content: space-evenly;
+    width: max-content;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: rgb(218, 165, 32);
+
+}
+
+
+.right {
+    border-radius: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h1 {
+    font-size: 12px;
+}
+
+.text p {
+    font-size: 18px;
+
+}
+
+.img {
+    width: 65px;
+}
+
+
+.cardd .text {
+    margin-right: 20px;
+}
+
+.oplata {
+    display: flex;
+
+}
+
+.oplata h1 {
+    font-size: 25px;
+}
+
+.clicks button {
+    border-radius: 20px;
+    width: 60px;
+    font-size: 15px;
+    font-weight: 900;
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+}
+
+.clicks {
+    align-items: center;
+    display: flex;
+}
+
+.musr {
+    width: 20px;
+    margin: 5px;
+}
