@@ -8,7 +8,10 @@ const Board = () => {
 
 
 
-      
+
+
+
+
       <div className="row">
         <div className="col-1">
           <One />
