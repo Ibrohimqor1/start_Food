@@ -5,6 +5,8 @@ import End from "./end";
 const Board = () => {
   return (
     <div>
+
+      
       <div className="row">
         <div className="col-1">
           <One />
